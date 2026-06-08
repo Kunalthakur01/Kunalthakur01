@@ -15,7 +15,12 @@ Email Me 👉 ✉️ **kunal01singh007@gmial.com** For Collaboration/Project or 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunalthakur01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kunalthakur01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Kunalthakur01/Kunalthakur01/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
 
 
