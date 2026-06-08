@@ -13,11 +13,9 @@ Email Me 👉 ✉️ **kunal01singh007@gmial.com** For Collaboration/Project or 
 ![](https://github-readme-stats.shion.dev/api?username=kunalthakur01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kunalthakur01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunalthakur01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 
