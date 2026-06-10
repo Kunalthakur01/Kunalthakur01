@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BCA Student (CCSU)<br>🤖 Learning Artificial Intelligence & Machine Learning<br>💻 AI-ML and Data Science<br>📚 Preparing for NIMCET
+🎓 BCA Student <br>🤖 Learning Artificial Intelligence & Machine Learning<br>💻 AI-ML and Data Science<br>📚 Preparing for NIMCET
 
 
 ## 🌐 Socials:
