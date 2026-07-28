@@ -50,15 +50,6 @@ Building AI projects, solving DSA problems And Learning new technologies
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kunalthakur01&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 📌 Featured Projects
 
